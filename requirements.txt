@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+gensim
+lightfm
+pandas
+seaborn
+scikit-surprise
+pytorch-lightning
